@@ -1,0 +1,10 @@
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.Form1.resources

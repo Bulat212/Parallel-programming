@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfStudents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <name>Андреев И.Г.</name>
+    <predmets>
+      <string>База данных</string>
+      <string>Основы програмирования</string>
+      <string>Математический анализ</string>
+    </predmets>
+    <percentfive>75</percentfive>
+  </Students>
+  <Students>
+    <name>Борзов А.А.</name>
+    <predmets>
+      <string>Математический анализ</string>
+      <string>Операционные системы</string>
+      <string>База данных</string>
+      <string>Основы програмирования</string>
+    </predmets>
+    <percentfive>100</percentfive>
+  </Students>
+</ArrayOfStudents>

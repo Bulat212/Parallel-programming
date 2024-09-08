@@ -1,0 +1,98 @@
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Gulnara\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Gulnara\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Laba4\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\Laba4\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Laba4\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Laba4\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Gulnara\Desktop\Laba4\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Gulnara\Desktop\Laba4\Laba1\bin\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\Laba4\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\Laba4\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\laba 5\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\laba 5\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\laba 5\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\laba 5\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Gulnara\Desktop\laba 5\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Gulnara\Desktop\laba 5\Laba1\bin\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\laba 5\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.exe
+C:\Users\Gulnara\Desktop\laba 5\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\5\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\5\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\5\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\5\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\bin\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.Form1.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\4\Laba1\obj\Debug\Laba1.pdb

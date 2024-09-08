@@ -1,0 +1,115 @@
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\appsettings.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.deps.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.runtimeconfig.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfoInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfo.cs
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.laba7-1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.build.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\scopedcss\bundle\laba7-1.styles.css
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.CopyComplete
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\refint\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.genruntimeconfig.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\obj\Debug\net6.0\ref\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\appsettings.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.exe
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.deps.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.runtimeconfig.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\laba7-1.pdb
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.AssemblyReference.cache
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfoInputs.cache
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfo.cs
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.CoreCompileInputs.cache
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\scopedcss\bundle\laba7-1.styles.css
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.csproj.CopyComplete
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\refint\laba7-1.dll
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.pdb
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\laba7-1.genruntimeconfig.cache
+C:\Users\Gulnara\Desktop\laba7-1\laba7-1\obj\Debug\net6.0\ref\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\appsettings.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\laba7-1.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\laba7-1.deps.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\laba7-1.runtimeconfig.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\laba7-1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfoInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.AssemblyInfo.cs
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.laba7-1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.build.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laba7-1.props
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\scopedcss\bundle\laba7-1.styles.css
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.csproj.Up2Date
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\refint\laba7-1.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\laba7-1.genruntimeconfig.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 server\laba7-1\obj\Debug\net6.0\ref\laba7-1.dll

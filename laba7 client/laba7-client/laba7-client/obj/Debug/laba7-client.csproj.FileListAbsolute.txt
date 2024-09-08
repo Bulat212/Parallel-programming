@@ -1,0 +1,15 @@
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.exe.config
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.exe
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.pdb
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.csproj.AssemblyReference.cache
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.csproj.CoreCompileInputs.cache
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.exe
+C:\Users\Gulnara\Desktop\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\bin\Debug\laba7-client.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba7 client\laba7-client\laba7-client\obj\Debug\laba7-client.pdb

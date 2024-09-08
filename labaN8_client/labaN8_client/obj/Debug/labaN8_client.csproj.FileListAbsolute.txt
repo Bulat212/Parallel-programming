@@ -1,0 +1,10 @@
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\obj\Debug\labaN8_client.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\obj\Debug\labaN8_client.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\bin\Debug\labaN8_client.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\bin\Debug\labaN8_client.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\bin\Debug\labaN8_client.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\obj\Debug\labaN8_client.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\obj\Debug\labaN8_client.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\labaN8_client\labaN8_client\obj\Debug\labaN8_c.1FA2A352.Up2Date
